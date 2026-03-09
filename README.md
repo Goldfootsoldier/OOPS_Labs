@@ -43,4 +43,5 @@ This repository contains **Java programs** developed as part of the Object Orien
 * Experiment 3: Iteration and Conditional Statements
 * Experiment 4: Access Modifiers in Java
 * Experiment 5: UML Diagram Practice
-* Experiment 6:
+* Experiment 6: UML Diagram Case Studies 
+* Experiment 7: Inheritance
