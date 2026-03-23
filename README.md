@@ -45,3 +45,4 @@ This repository contains **Java programs** developed as part of the Object Orien
 * Experiment 5: UML Diagram Practice
 * Experiment 6: UML Diagram Case Studies 
 * Experiment 7: Inheritance
+* Experiment 8: Polymorphism
