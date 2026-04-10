@@ -48,3 +48,7 @@ This repository contains **Java programs** developed as part of the Object Orien
 * Experiment 8: Polymorphism
 * Experiment 9: Abstraction
 * Experiment 10: Encapsulation
+* Experiment 11: Packages in Java
+* Experiment 12: Arrays in Java
+* Experiment 13: Error Handling in Java
+* Experiment 14: File Handling in Java
