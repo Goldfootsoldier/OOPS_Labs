@@ -1,0 +1,2 @@
+Hello! This is file handling using Scanner.
+Java makes file handling easy.
